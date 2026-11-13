@@ -55,27 +55,37 @@ Aerosol optical depth is used as additional supporting information when examinin
 
 ### Smoke Days by Summer
 
-[Insert your completed smoke-day counts for Marshall and Winnipeg for 2023–2026.]
+<img width="245" height="283" alt="Screenshot from 2026-11-12 20-14-16" src="https://github.com/user-attachments/assets/c9eb1819-65ff-4cc7-8bf3-1a4f1fc1d477" />
+
+
 
 ### Worst Smoke Days
 
-[Insert the date and daily mean PM2.5 concentration of the worst day for each summer and city.]
+<img width="662" height="346" alt="Screenshot from 2026-11-12 20-15-06" src="https://github.com/user-attachments/assets/6c842d5b-14b8-419b-a246-be410195d1c3" />
+
 
 ### Weather Conditions
 
-[Summarize differences in wind speed, wind direction, precipitation, and temperature between smoke days and normal days.]
+<img width="785" height="84" alt="Screenshot from 2026-11-12 20-15-53" src="https://github.com/user-attachments/assets/86990d35-780d-439f-a7ff-da1fbf08c492" />
+
 
 ### City Comparison
 
-[Describe which city experienced more smoke days and whether major smoke events occurred on similar dates.]
+Winnipeg was the city to have experienced the most smoke days, having faced a particularly high number of them during summer 2025.
 
 ## Charts
 
 The project includes three visualizations:
 
 1. Daily mean PM2.5 concentrations with the smoke-day threshold.
+   <img width="1986" height="886" alt="daily_pm2_5" src="https://github.com/user-attachments/assets/0c854d63-b33b-4d5c-9302-e4e4b2b307bf" />
+
 2. Smoke days per summer, comparing Marshall and Winnipeg.
-3. Wind conditions on smoke days compared with normal days.
+   <img width="989" height="590" alt="highs_by_city_year" src="https://github.com/user-attachments/assets/7980bea4-3542-4626-b45c-558586904065" />
+
+3. Hourly Heatmap for Worst Month
+   <img width="1436" height="690" alt="worst_month_heatmap" src="https://github.com/user-attachments/assets/18440fb2-9dac-471f-b724-14f39eb0812d" />
+
 
 ![Daily PM2.5](charts/daily_pm25.png)
 
